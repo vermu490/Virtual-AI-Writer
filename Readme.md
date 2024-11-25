@@ -58,4 +58,3 @@ Contributions are welcome! If you have ideas or enhancements, feel free to submi
 ---
 
 **Disclaimer**: Ensure that your webcam is properly set up and permissions are granted for the project to function correctly.
-```
