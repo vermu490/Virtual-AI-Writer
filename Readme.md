@@ -1,5 +1,4 @@
-```markdown
-# Virtual AI Writer
+Virtual AI Writer
 
 Virtual AI Writer is an innovative project that uses AI and computer vision technologies to enhance human-computer interaction. It allows users to interact with the system using fingertip detection to perform various tasks such as writing, drawing shapes, erasing content, moving virtual objects, and using a virtual mouse to scroll through PDFs and other applications. The project also includes a webpage for interactive use.
 
