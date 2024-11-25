@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Hand Gesture Drawing App</title>
+    <style>
+        body {
+            background-color: #222;
+            color: #fff;
+            text-align: center;
+            font-family: Arial, sans-serif;
+        }
+        img {
+            width: 80%;
+            margin-top: 20px;
+            border: 5px solid #555;
+            border-radius: 10px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Hand Gesture Drawing App</h1>
+    <img src="{{ url_for('video_feed') }}" alt="Video Feed">
+    <p>Use your hand gestures to draw on the screen. Select shapes, colors, and adjust brush size using the buttons.</p>
+    <p>Press <strong>CTRL+C</strong> in the terminal to exit the application.</p>
+</body>
+</html>
